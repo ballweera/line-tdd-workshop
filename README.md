@@ -1,3 +1,6 @@
+# Prerequisite
+- NodeJS (>= 10)
+
 # Set up project
 After cloning this repo, please run the command below
 ```
